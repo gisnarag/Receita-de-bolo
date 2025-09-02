@@ -1,3 +1,20 @@
+body {
+    background-image: url("https://www.marthastewart.com/thmb/TndJSnEBG3zBFClHX5tuLOBX3lA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/MSL-317517-red-velvet-cupcakes-hero-3x2-11372-e854959ce38e4f0cac4e2c194b6e3967.jpeg");
+    background-size: cover;
+}
+
+#page {
+ width: 800px;
+ padding: 24px;
+ background-color: #f3efe0;
+ border-radius: 24px;
+ margin: 48px auto;
+ background-position-x: center;
+}
+
 img {
-   border-radius: 16px;
+    width: 800px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 16px;
 }
